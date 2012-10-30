@@ -215,7 +215,7 @@ class LittleSMS extends CApplicationComponent
 	 *         // 'recipients' => '79260000000,79030000000',
 	 *         'message' => 'Hello, World!'
 	 *     )
-	 * )
+	 * );
 	 *
 	 * Также доступен вариант (аргументы вызова формируют массив параметров в соответствии с ключами required и optional в LittleSMS.call()):
 	 *
