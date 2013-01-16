@@ -29,7 +29,7 @@ git clone git://github.com/pavel-voronin/yii-littlesms.git
         'apikey'   => 'ttUfFhg2',     // API-ключ аккаунта
         'testMode' => true            // Режим тестирования по умолчанию выключен, будьте внимательны
     )
-);
+),
 ```
 
 ##Использование
